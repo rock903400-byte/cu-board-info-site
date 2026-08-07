@@ -1,5 +1,7 @@
 # 理監事資訊公開網站 (Board Info Site)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > 協助金融機構揭露治理資訊
 
 ## 📖 背景
